@@ -1,14 +1,12 @@
 <p align="center"><a href="https://craftcms.com/" target="_blank"><img width="312" height="90" src="https://craftcms.com/craftcms.svg" alt="Craft CMS"></a></p>
 
-## About Craft CMS
+## About From Left to Write Calligraphy
 
-Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike. It is optimized for bespoke web and application development, offering developers a clean slate to build out exactly what they want, rather than wrestling with a theme.
+From Left to Write Calligraphy is a calligraphy blog that will eventually aim to provide content that will help both beginners and seasoned calligraphers alike. 
 
-Learn more about Craft at [craftcms.com](https://craftcms.com).
+## Why create this site from scratch?
 
-## How to Install Craft 3
-
-See the Craft 3 documentation for [installation](https://docs.craftcms.com/v3/installation.html) and [updating](https://docs.craftcms.com/v3/updating.html) instructions.
+I will be developing this site as I go along my development journey starting off by creating a personal blog and hopefully transform it into full-fledged platform wherein people can sign-up and find learning content, or create a space for them to market their services to potential clients.
 
 ## Resources
 
