@@ -1,4 +1,4 @@
-<p align="center"><a href="https://craftcms.com/" target="_blank"><img width="312" height="90" src="https://craftcms.com/craftcms.svg" alt="Craft CMS"></a></p>
+<p align="center"><img width="312" height="90" src="https://github.com/sopasdigital/fromlefttowrite/blob/master/web/images/banner-fltw-logo.jpg" alt="From Left to Write Calligraphy website"></p>
 
 ## About From Left to Write Calligraphy
 
@@ -10,16 +10,11 @@ I will be developing this site as I go along my development journey starting off
 
 ## Resources
 
-#### Official Resources
-- [Craft 3 Documentation](https://docs.craftcms.com/v3/)
-- [Craft 3 Class Reference](https://docs.craftcms.com/api/v3/)
-- [Craft 3 Plugins](https://plugins.craftcms.com)
-- [Demo site](https://demo.craftcms.com/)
-- [Craft Slack](https://craftcms.com/community#slack)
-- [Craft CMS Stack Exchange](http://craftcms.stackexchange.com/)
+#### My Website and Social Media
+- [Personal Website](http://robbiehilado.com/)
+- [Instagram](https://www.instagram.com/fromlefttowrite.calligraphy/)
+- [Facebook](https://www.facebook.com/fromlefttowritecal.li)
 
 #### Community Resources
-- [Mijingo](https://mijingo.com/craft) – Video courses and other learning resources
-- [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) – Video courses
-- [Straight Up Craft](http://straightupcraft.com/) – Articles, tutorials, and more
-- [pluginfactory.io](https://pluginfactory.io/) – Craft plugin scaffold generator
+- [IAMPETH](https://www.iampeth.com/home) – International Association of Master Penmen, Engrossers, and Teachers of Handwriting. A really great place for lessons and other learning resources
+- [Flourish Forum](http://www.theflourishforum.com/) – Video courses
