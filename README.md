@@ -11,10 +11,10 @@ I will be developing this site as I go along my development journey starting off
 ## Resources
 
 #### My Website and Social Media
-- [Personal Website](http://robbiehilado.com/)
-- [Instagram](https://www.instagram.com/fromlefttowrite.calligraphy/)
-- [Facebook](https://www.facebook.com/fromlefttowritecal.li)
+- [Personal Website - robbiehilado.com](http://robbiehilado.com/)
+- [Instagram - @fromlefttowritecal.li](https://www.instagram.com/fromlefttowritecal.li/)
+- [Facebook - facebook.com/fromlefttowritecal.li](https://www.facebook.com/fromlefttowritecal.li)
 
 #### Community Resources
 - [IAMPETH](https://www.iampeth.com/home) – International Association of Master Penmen, Engrossers, and Teachers of Handwriting. A really great place for lessons and other learning resources
-- [Flourish Forum](http://www.theflourishforum.com/) – Video courses
+- [Flourish Forum](http://www.theflourishforum.com/) – A really great community where people exchange resources and give critiques and activities for you to learn different calligraphic styles.
