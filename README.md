@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/sopasdigital/fromlefttowrite/blob/master/web/images/banner-fltw-logo.jpg" alt="From Left to Write Calligraphy website"></p>
+<p align="center"><img src="https://github.com/sopasdigital/fromlefttowrite/blob/master/web/images/readme/banner-fltw-logo.jpg" alt="From Left to Write Calligraphy website"></p>
 
 ## About From Left to Write Calligraphy
 
